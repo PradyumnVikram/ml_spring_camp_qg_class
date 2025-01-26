@@ -1,3 +1,2 @@
-# Task 1 - Lattice Physics
-Submission by - Pradyumn Vikram
-Roll no. - 240759
+# Task 1 - Quarks and Gluons
+Submission by - Pradyumn Vikram (240759)
